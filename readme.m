@@ -60,6 +60,6 @@
 %
 %*****************************************************************
 %Fell Free to Visit Us : http://matlab-recognition-code.com/signature-recognition-based-on-neural-networks/
-% or Contact Us at : Sami_Hagrai-88@@matlab-recognition-code.com
+% or Contact Us at : Sami_Hagrai-88@matlab-recognition-code.com
 %
 %
