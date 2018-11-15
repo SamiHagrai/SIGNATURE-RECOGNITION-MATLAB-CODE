@@ -26,4 +26,4 @@ NEURAL NETWORKS BASED SIGNATURE RECOGNITION v4
 
 
 
-Contact Us at : Sami_Hagrai-88@@matlab-recognition-code.com
+Contact Us at : Sami_Hagrai-88@matlab-recognition-code.com
